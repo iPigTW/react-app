@@ -8,8 +8,8 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 function Home() {
   return <>
-  <h1>Hi, I'm iPig</h1>
-  <h3>I'm a 13 years old developer from Taiwan 🇹🇼</h3>
+  <h1>Wassup! I'm iPig</h1>
+  <h3>I'm a 13 years old programmer from Taiwan 🇹🇼</h3>
   <h2>My skills</h2>
   <img src="https://skillicons.dev/icons?i=js,py,react,lua,discord,flask" />
   <h2>My social medias</h2>
