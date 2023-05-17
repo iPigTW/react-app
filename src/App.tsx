@@ -1,15 +1,10 @@
-import { useState, useEffect, ChangeEvent} from 'react'
+
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 
 
-function Header() {
-  return <>
-  <h1>Hi, I'm iPig</h1>
-  
-  </>
-}
+
 
 function Home() {
   return <>
