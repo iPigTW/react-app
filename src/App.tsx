@@ -12,6 +12,8 @@ function Home() {
   <h3>I'm a 15 years old programmer from Taiwan 🇹🇼</h3>
   <h2>My skills</h2>
   <img src="https://skillicons.dev/icons?i=nodejs,py,react,lua,flask" />
+  <h2>Recent Projects</h2>
+  <p><a href="https://github.com/ipigtw/discord-bot-js">Discord Bot</a></p>
   <h2>My social medias</h2>
   <a href="https://github.com/iPigTW"><img src='/github.svg' width="50" height="50"/></a>
   <a href="https://youtube.com/@ipigtaiwan"><img className='youtube' src='/youtube.png' width="45" height="45"/></a>
