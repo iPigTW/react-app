@@ -17,7 +17,7 @@ function Home() {
   <h2>My social medias</h2>
   <a href="https://github.com/iPigTW"><img src='/github.svg' width="50" height="50"/></a>
   <a href="https://youtube.com/@ipigtaiwan"><img className='youtube' src='/youtube.png' width="45" height="45"/></a>
-  <a href="https://discord.gg/4uezbEqfSA"><img src='/discord.svg' width="55" height="45"/></a>
+  <a href="https://discord.gg/DxKYsQNvT8"><img src='/discord.svg' width="55" height="45"/></a>
   <p className='footer'>Made with <a href="https://react.dev">React</a> by iPig</p>
   </>
 }
