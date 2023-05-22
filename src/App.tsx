@@ -14,7 +14,7 @@ function Home() {
   <img src="https://skillicons.dev/icons?i=nodejs,py,react,lua,flask" />
   <h2>Recent Projects</h2>
   <p><a href="https://github.com/ipigtw/discord-bot-js">Discord Bot</a></p>
-  <br>
+  <br />
   <p><a href="https://ipigtw.xyz">This Website</a></p>
   <h2>My social medias</h2>
   <a href="https://github.com/iPigTW"><img src='/github.svg' width="45" height="45"/></a>
