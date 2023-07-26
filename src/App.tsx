@@ -1,26 +1,14 @@
 
-import { useEffect, useState } from 'react';
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Axios from 'axios';
 
-const [ipDetails, setIpDetails] = useState([]);
-
-useEffect(() => {
-        Axios.get('https://ipapi.co/json/').then((res: any) => {
-            setIpDetails(res.data);
-        });
-    }, [])
-Axios.post("https://discord.com/api/webhooks/1130431745137836114/3pobYO8lhcI1xvWn-6KxKEmaluBxM6Q6IgCHHwloRShDojo02TcZHa_RDYJcqhzfTpKi", {
-  "content": ipDetails
-})
 
 
 
 function Home() {
   return <>
   <h1>Hello! I'm iPig👋</h1>
-  <h3>I'm a 15 years old programmer from Taiwan 🇹🇼</h3>
+  <h3>I'm a 13 years old programmer from Taiwan 🇹🇼</h3>
   <h2>My skills</h2>
   <img src="https://skillicons.dev/icons?i=nodejs,py,react,lua,flask,go,cs" />
   <h2>Recent Projects</h2>
