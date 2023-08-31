@@ -12,7 +12,7 @@ function Home() {
   <h1>Hello! I'm iPig👋</h1>
   <h3>I'm a 13 years old programmer from Taiwan 🇹🇼</h3>
   <h2>My skills</h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,react,lua,flask,go,cs" />
+  <img src="https://skillicons.dev/icons?i=py,go,java" />
   <h2>Recent Projects</h2>
   <p><a href="https://github.com/ipigtw/discord-bot-js">Discord Bot</a></p>
   <h2>My social medias</h2>
