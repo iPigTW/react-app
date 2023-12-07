@@ -14,7 +14,9 @@ function Home() {
   <h2>My skills</h2>
   <img src="https://skillicons.dev/icons?i=py,go,java,cpp,kotlin" />
   <h2>Recent Projects</h2>
-  <p><a href="https://github.com/ipigtw/discord-bot-js">Discord Bot</a></p>
+  <p><a href="https://github.com/iPigTW/zhuyintranslator">Zhuyin Translator</a></p>
+  <p><a href="https://github.com/iPigTW/steam-tax-calculator">Steam Tax Calculator</a></p>
+  <p><a href="https://github.com/iPigTW/troll">Troll</a></p>
   <h2>My social medias</h2>
   <a href="https://github.com/iPigTW"><img src='/github.svg' width="45" height="45"/></a>
   <a href="https://youtube.com/@ipigtaiwan"><img className='youtube' src='/youtube.png' width="45" height="45"/></a>
